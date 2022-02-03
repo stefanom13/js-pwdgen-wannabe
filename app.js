@@ -7,7 +7,7 @@ console.log(userName) // per visualizzare in console
 const userAge = prompt ('Inserisci anno di nascita')
 console.log(userAge)
 
-const passWord = prompt('Inserisci la tua password')
+const passWord = prompt('Inserisci la tua nuova password')
 console.log(passWord)
 
 const colorPreferito = prompt('Inserisci il tuo colore preferito')
